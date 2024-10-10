@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Frontend Developer",
+        "company": "Tech Solutions",
+        "location": "New York, NY",
+        "description": "Looking for a skilled frontend developer with experience in React and Vue.",
+        "link": "#"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "DataHub Inc.",
+        "location": "San Francisco, CA",
+        "description": "Seeking an expert in Node.js and Python to work on our backend services.",
+        "link": "#"
+    },
+    {
+        "title": "Digital Marketing Manager",
+        "company": "Creative Minds",
+        "location": "Remote",
+        "description": "We need a digital marketing manager to lead our online campaigns.",
+        "link": "#"
+    }
+]
